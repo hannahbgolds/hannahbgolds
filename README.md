@@ -5,7 +5,7 @@
 ### 👩‍💻 About Me
 
 🎓 Computer Engineering student at **PUC-Rio**  
-🍎 iOS Developer at **Apple Developer Academy** (2025/2026)  
+🍎 iOS Developer at **Apple Developer Academy** (2024/2025)  
 💻 Web developer volunteer at **NGO Hemocione**  
 🏁 Currently training for **competitive programming** (C++)  
 
